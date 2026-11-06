@@ -1,4 +1,4 @@
-# marketlens
+# Marketlens
 
 A small project for market analysis and predictions.
 
